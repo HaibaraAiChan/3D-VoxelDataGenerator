@@ -3,8 +3,8 @@
 This repository includes voxel data generator for data augmentation. The style of the generator is like Keras's ImageDataGenerator class.
 Input data cab be augmented:
 * Flip
-* Shift
-* Zoom
+* Shift (not use in Deepdrug)
+* Zoom (not use in Deepdrug)
 * Rotate
 
 ## Dependencies
